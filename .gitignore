@@ -1,0 +1,10 @@
+# OS generated files
+.DS_Store
+
+# JupyterNotebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Activity file output
+output_data/*
+!output_data/README.md
