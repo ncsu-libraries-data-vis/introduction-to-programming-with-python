@@ -14,11 +14,11 @@ This Jupyter Notebook covers basic Python syntax, fundamentals of running code i
 
 This Jupyter Notebook covers control flow (conditional statements and for loops) with several hands-on activities.
 
-## Introduction to Programing with Python–Part 3
+<!-- ## Introduction to Programing with Python–Part 3
 
 [![Open Introduction to Programming in Python 3 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/introduction-to-programming-with-python/blob/main/Introduction_to_Programming_with_Python_3.ipynb)
 
-This Jupyter Notebook covers functions and reading and writing to files with several hands-on activities.
+This Jupyter Notebook covers functions and reading and writing to files with several hands-on activities. -->
 
 ## Credits
 
